@@ -1,5 +1,5 @@
 # my-goals
-2. Write manifest
+2. Write manifest (Done)
 1. Make cutie-fs
 2. Finish cutie-rest
 3. Make cutie-mongo
