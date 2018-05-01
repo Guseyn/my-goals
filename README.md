@@ -1,7 +1,7 @@
 # my-goals
 1. Write manifest (Done)
 2. Make cutie-fs (Done)
-3. Create cutie test framework (cutie-assert)
+3. Create cutie test framework (cutie-assert) (Done)
 4. Tests on fs
 5. Tests on http
 5. Finish cutie-rest
