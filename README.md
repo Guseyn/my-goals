@@ -3,7 +3,7 @@
 - [x] Make cutie-fs
 - [x] Create cutie test framework (cutie-assert) (Done)
 - [ ] Tests on fs
-  - [ ] Create cutie-event
+  - [x] Create cutie-event
 - [ ] Tests on http
 - [ ] Tests on buffer
 - [ ] Tests on error
