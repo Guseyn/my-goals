@@ -11,7 +11,7 @@
 - [ ] Tests on event
 - [ ] Finish cutie-rest
 - [ ] Tests on cutie-rest
-- [ ] Docs on fs, http, rest, buffer, error, date 
+- [ ] Docs on fs, http, rest, buffer, error, date, event
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
