@@ -10,9 +10,10 @@
 - [ ] Tests on error
 - [ ] Tests on date
 - [ ] Tests on event
+- [ ] Tests on cutie-stream
 - [ ] Finish cutie-rest
 - [ ] Tests on cutie-rest
-- [ ] Docs on fs, http, rest, buffer, error, date, event
+- [ ] Docs on fs, http, rest, buffer, error, date, event, stream
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
