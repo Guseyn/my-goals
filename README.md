@@ -4,6 +4,7 @@
 - [x] Create cutie test framework (cutie-assert) (Done)
 - [ ] Tests on fs
   - [x] Create cutie-event
+  - [ ] Create cutie-stream
 - [ ] Tests on http
 - [ ] Tests on buffer
 - [ ] Tests on error
