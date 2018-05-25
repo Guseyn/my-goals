@@ -2,9 +2,9 @@
 - [x] Write manifest
 - [x] Make cutie-fs
 - [x] Create cutie test framework (cutie-assert) (Done)
-- [ ] Tests on fs
+- [x] Tests on fs
   - [x] Create cutie-event
-  - [ ] Create cutie-stream
+  - [x] Create cutie-stream
 - [ ] Tests on http
 - [ ] Tests on buffer
 - [ ] Tests on error
