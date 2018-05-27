@@ -6,6 +6,7 @@
   - [x] Create cutie-event
   - [x] Create cutie-stream
 - [ ] Tests on http
+  - [ ] Create cutie-object
 - [ ] Tests on buffer
 - [ ] Tests on error
 - [ ] Tests on date
@@ -13,7 +14,8 @@
 - [ ] Tests on cutie-stream
 - [ ] Finish cutie-rest
 - [ ] Tests on cutie-rest
-- [ ] Docs on fs, http, rest, buffer, error, date, event, stream
+- [ ] Tests on cutie-object
+- [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
