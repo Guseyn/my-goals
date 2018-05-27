@@ -6,7 +6,7 @@
   - [x] Create cutie-event
   - [x] Create cutie-stream
 - [ ] Tests on http
-  - [ ] Create cutie-object
+  - [x] Create cutie-object
 - [ ] Tests on buffer
 - [ ] Tests on error
 - [ ] Tests on date
