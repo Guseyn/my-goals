@@ -5,7 +5,7 @@
 - [x] Tests on fs
   - [x] Create cutie-event
   - [x] Create cutie-stream
-  - [ ] Create cutie-process
+  - [x] Create cutie-process
 - [ ] Tests on http
   - [x] Create cutie-object
 - [ ] Tests on buffer
