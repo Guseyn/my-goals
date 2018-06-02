@@ -9,6 +9,8 @@
   - [x] Create cutie-object
   - [x] Create cutie-process
 - [ ] Tests on buffer
+  - [ ] Create cutie-iterator
+  - [ ] Tests on cutie-iterator
 - [ ] Tests on error
 - [ ] Tests on date
 - [ ] Tests on event
@@ -17,7 +19,7 @@
 - [ ] Tests on cutie-rest
 - [ ] Tests on cutie-object
 - [ ] Tests on cutie-process
-- [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process
+- [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, iterator
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
