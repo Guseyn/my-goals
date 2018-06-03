@@ -9,7 +9,7 @@
   - [x] Create cutie-object
   - [x] Create cutie-process
 - [ ] Tests on buffer
-  - [ ] Create cutie-iterator
+  - [x] Create cutie-iterator
   - [ ] Tests on cutie-iterator
 - [ ] Tests on error
 - [ ] Tests on date
