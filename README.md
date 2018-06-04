@@ -8,7 +8,7 @@
 - [x] Tests on http
   - [x] Create cutie-object
   - [x] Create cutie-process
-- [ ] Tests on buffer
+- [x] Tests on buffer
   - [x] Create cutie-iterator
 - [ ] Tests on error
 - [ ] Tests on date
