@@ -14,11 +14,11 @@
 - [ ] Tests on date
 - [ ] Tests on event
 - [ ] Tests on cutie-stream
-- [ ] Finish cutie-rest
-- [ ] Tests on cutie-rest
 - [ ] Tests on cutie-object
 - [ ] Tests on cutie-process
 - [ ] Tests on cutie-iterator
+- [ ] Finish cutie-rest
+- [ ] Tests on cutie-rest
 - [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, iterator
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
@@ -27,6 +27,8 @@
 - [ ] Tests on cutie-mongo-2pc
 - [ ] Docs on cutie-mongo-2pc
 - [ ] Write scientific work about implementation of async tree/async objects
+- [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
+- [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make UI Framework: Page
 - [ ] Test Page
 - [ ] Write Docs on Page
