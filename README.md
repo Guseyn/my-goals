@@ -10,7 +10,7 @@
   - [x] Create cutie-process
 - [x] Tests on buffer
   - [x] Create cutie-iterator
-- [ ] Tests on error
+- [x] Tests on error
 - [ ] Tests on date
 - [ ] Tests on event
 - [ ] Tests on cutie-stream
