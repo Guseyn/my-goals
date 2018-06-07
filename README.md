@@ -11,7 +11,7 @@
 - [x] Tests on buffer
   - [x] Create cutie-iterator
 - [x] Tests on error
-- [ ] Tests on date
+- [x] Tests on date
 - [ ] Tests on event
 - [ ] Tests on cutie-stream
 - [ ] Tests on cutie-object
