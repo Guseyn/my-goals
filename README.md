@@ -13,7 +13,7 @@
 - [x] Tests on error
 - [x] Tests on date
 - [x] Tests on event
-- [ ] Tests on cutie-stream
+- [x] Tests on cutie-stream
 - [ ] Tests on cutie-object
 - [ ] Tests on cutie-process
 - [ ] Tests on cutie-iterator
