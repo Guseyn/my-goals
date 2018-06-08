@@ -14,7 +14,7 @@
 - [x] Tests on date
 - [x] Tests on event
 - [x] Tests on cutie-stream
-- [ ] Tests on cutie-object
+- [x] Tests on cutie-object
 - [ ] Tests on cutie-process
 - [ ] Tests on cutie-iterator
 - [ ] Finish cutie-rest
