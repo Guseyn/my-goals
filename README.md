@@ -16,10 +16,14 @@
 - [x] Tests on cutie-stream
 - [x] Tests on cutie-object
 - [ ] Tests on cutie-process
+  - [ ] Create cutie-child-process
+  - [ ] Tests on cutie-child-process
 - [ ] Tests on cutie-iterator
 - [ ] Finish cutie-rest
+  - [ ] Create cutie-cluster
+  - [ ] Tests on cutie-cluster
 - [ ] Tests on cutie-rest
-- [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, iterator
+- [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cutie-cluster, iterator
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
