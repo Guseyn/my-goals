@@ -15,7 +15,7 @@
 - [x] Tests on event
 - [x] Tests on cutie-stream
 - [x] Tests on cutie-object
-- [ ] Tests on cutie-process
+- [x] Tests on cutie-process
   - [x] Create cutie-child-process
   - [x] Tests on cutie-child-process
 - [ ] Tests on cutie-iterator
