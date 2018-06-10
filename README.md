@@ -18,7 +18,7 @@
 - [x] Tests on cutie-process
   - [x] Create cutie-child-process
   - [x] Tests on cutie-child-process
-- [ ] Tests on cutie-iterator
+- [x] Tests on cutie-iterator
 - [ ] Finish cutie-rest
   - [ ] Create cutie-cluster
   - [ ] Tests on cutie-cluster
