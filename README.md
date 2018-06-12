@@ -20,10 +20,12 @@
   - [x] Tests on cutie-child-process
 - [x] Tests on cutie-iterator
 - [ ] Finish cutie-rest
-  - [ ] Create cutie-cluster
-  - [ ] Tests on cutie-cluster
+  - [ ] Create cutie-path
+  - [ ] Tests on cutie-path
 - [ ] Tests on cutie-rest
 - [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cutie-cluster, iterator
+- [ ] Create cutie-cluster
+- [ ] Tests on cutie-cluster
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
