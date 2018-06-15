@@ -22,8 +22,8 @@
 - [ ] Finish cutie-rest
   - [x] Create cutie-path
   - [x] Tests on cutie-path
-  - [ ] Create cutie-if-else
-  - [ ] Tests on cutie-if-else
+  - [x] Create cutie-if-else
+  - [x] Tests on cutie-if-else
 - [ ] Tests on cutie-rest
 - [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cluster, iterator, path, if-else
 - [ ] Create cutie-cluster
