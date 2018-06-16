@@ -25,7 +25,7 @@
   - [x] Create cutie-if-else
   - [x] Tests on cutie-if-else
 - [x] Tests on cutie-rest
-- [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cluster, iterator, path, if-else
+- [ ] Docs on assert, fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cluster, iterator, path, if-else
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
 - [ ] Make cutie-mongo
