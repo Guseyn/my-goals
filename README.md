@@ -19,12 +19,12 @@
   - [x] Create cutie-child-process
   - [x] Tests on cutie-child-process
 - [x] Tests on cutie-iterator
-- [ ] Finish cutie-rest
+- [x] Finish cutie-rest
   - [x] Create cutie-path
   - [x] Tests on cutie-path
   - [x] Create cutie-if-else
   - [x] Tests on cutie-if-else
-- [ ] Tests on cutie-rest
+- [x] Tests on cutie-rest
 - [ ] Docs on fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cluster, iterator, path, if-else
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
