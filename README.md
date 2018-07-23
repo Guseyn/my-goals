@@ -25,6 +25,7 @@
   - [x] Create cutie-if-else
   - [x] Tests on cutie-if-else
 - [x] Tests on cutie-rest
+- [ ] Write scientific work about implementation of async tree/async objects
 - [ ] Docs on assert, fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cluster, iterator, path, if-else
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
@@ -34,7 +35,6 @@
 - [ ] Make cutie-mongo-2pc
 - [ ] Tests on cutie-mongo-2pc
 - [ ] Docs on cutie-mongo-2pc
-- [ ] Write scientific work about implementation of async tree/async objects
 - [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make UI Framework: Page
