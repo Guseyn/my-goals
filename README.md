@@ -28,9 +28,8 @@
 - [ ] Write scientific work about implementation of async tree/async objects
 - [ ] Docs on assert, fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cluster, iterator, path, if-else, each
 - [ ] Create cutie-cluster
-  - [ ] Create cutie-each
-  - [ ] Tests on cutie-each
 - [ ] Tests on cutie-cluster
+- [ ] Docs on cutie-cluster
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
