@@ -42,6 +42,5 @@
 - [ ] Test Page
 - [ ] Write Docs on Page
 - [ ] Rewrite my blog on cuties and Page
-- [ ] Create cutie-libs.org with docs and examples of using
 - [ ] Make up an idea for startup
 - [ ] Create application
