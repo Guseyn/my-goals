@@ -25,7 +25,7 @@
   - [x] Create cutie-if-else
   - [x] Tests on cutie-if-else
 - [x] Tests on cutie-rest
-- [ ] Write scientific work about implementation of async tree/async objects
+- [x] Write scientific work about implementation of async tree/async objects
 - [ ] Docs on assert, fs, http, rest, buffer, error, date, event, stream, object, process, child-process, cluster, iterator, path, if-else, each
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
