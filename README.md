@@ -27,7 +27,7 @@
 - [x] Tests on cutie-rest
 - [x] Write scientific work about implementation of async tree/async objects
 - [ ] Docs on assert
-  - [ ] Tests on assert
+  - [x] Tests on assert
 - [ ] Docs on fs
 - [ ] Docs on http
 - [ ] Docs on rest
