@@ -52,6 +52,7 @@
 - [ ] Tests on cutie-mongo-2pc
 - [ ] Docs on cutie-mongo-2pc
 - [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
+- [ ] Update in all readme npm ref
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make UI Framework: Page
 - [ ] Test Page
