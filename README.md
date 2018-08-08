@@ -28,7 +28,7 @@
 - [x] Write scientific work about implementation of async tree/async objects
 - [x] Docs on assert
   - [x] Tests on assert
-- [ ] Docs on fs
+- [x] Docs on fs
 - [ ] Docs on http
 - [ ] Docs on rest
 - [ ] Docs on buffer
