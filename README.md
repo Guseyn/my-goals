@@ -29,7 +29,7 @@
 - [x] Docs on assert
   - [x] Tests on assert
 - [x] Docs on fs
-- [ ] Docs on http
+- [x] Docs on http
 - [ ] Docs on rest
 - [ ] Docs on buffer
 - [ ] Docs on error
