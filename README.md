@@ -30,7 +30,7 @@
   - [x] Tests on assert
 - [x] Docs on fs
 - [x] Docs on http
-- [ ] Docs on rest
+- [x] Docs on rest
 - [ ] Docs on buffer
 - [ ] Docs on error
 - [ ] Docs on date
