@@ -31,7 +31,7 @@
 - [x] Docs on fs
 - [x] Docs on http
 - [x] Docs on rest
-- [ ] Docs on buffer
+- [x] Docs on buffer
 - [ ] Docs on error
 - [ ] Docs on date
 - [ ] Docs on event
