@@ -32,7 +32,7 @@
 - [x] Docs on http
 - [x] Docs on rest
 - [x] Docs on buffer
-- [ ] Docs on error
+- [x] Docs on error
 - [ ] Docs on date
 - [ ] Docs on event
 - [ ] Docs on stream
