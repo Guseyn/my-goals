@@ -34,7 +34,7 @@
 - [x] Docs on buffer
 - [x] Docs on error
 - [x] Docs on date
-- [ ] Docs on event
+- [x] Docs on event
 - [ ] Docs on stream
 - [ ] Docs on object
 - [ ] Docs on process
