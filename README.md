@@ -40,7 +40,7 @@
 - [x] Docs on process
 - [x] Docs on child-process
 - [x] Docs on iterator
-- [ ] Docs on path
+- [x] Docs on path
 - [ ] Docs on if-else 
 - [ ] Add deps links to all docs
 - [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
