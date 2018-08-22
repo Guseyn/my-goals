@@ -38,7 +38,7 @@
 - [x] Docs on stream
 - [x] Docs on object
 - [x] Docs on process
-- [ ] Docs on child-process
+- [x] Docs on child-process
 - [ ] Docs on iterator
 - [ ] Docs on path
 - [ ] Docs on if-else 
