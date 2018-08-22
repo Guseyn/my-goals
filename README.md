@@ -39,7 +39,7 @@
 - [x] Docs on object
 - [x] Docs on process
 - [x] Docs on child-process
-- [ ] Docs on iterator
+- [x] Docs on iterator
 - [ ] Docs on path
 - [ ] Docs on if-else 
 - [ ] Add deps links to all docs
