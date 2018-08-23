@@ -41,7 +41,7 @@
 - [x] Docs on child-process
 - [x] Docs on iterator
 - [x] Docs on path
-- [ ] Docs on if-else 
+- [x] Docs on if-else 
 - [ ] Add deps links to all docs
 - [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
 - [ ] Update npm ref in every doc
