@@ -42,8 +42,7 @@
 - [x] Docs on iterator
 - [x] Docs on path
 - [x] Docs on if-else 
-- [ ] Add deps links to all docs
-- [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
+- [ ] Make migration(adding deps links to all docs) of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
 - [ ] Update npm ref in every doc
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
