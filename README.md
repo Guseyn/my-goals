@@ -43,6 +43,21 @@
 - [x] Docs on path
 - [x] Docs on if-else 
 - [ ] Make migration(adding deps links to all docs) of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
+  - [ ] For assert
+  - [ ] For fs
+  - [ ] For http
+  - [ ] For rest
+  - [ ] For buffer
+  - [ ] For error
+  - [ ] For date
+  - [ ] For event
+  - [ ] For stream
+  - [ ] For object
+  - [ ] For process
+  - [ ] For child-process
+  - [ ] For iterator
+  - [ ] For path
+  - [ ] For if-else 
 - [ ] Update npm ref in every doc
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
