@@ -42,7 +42,7 @@
 - [x] Docs on iterator
 - [x] Docs on path
 - [x] Docs on if-else 
-- [ ] Make migration(adding deps links to all docs) of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
+- [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
   - [x] For cutie
   - [ ] For assert
   - [ ] For fs
