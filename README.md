@@ -43,6 +43,7 @@
 - [x] Docs on path
 - [x] Docs on if-else 
 - [ ] Make migration(adding deps links to all docs) of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
+  - [ ] For cutie
   - [ ] For assert
   - [ ] For fs
   - [ ] For http
