@@ -44,6 +44,8 @@
 - [x] Docs on if-else 
 - [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
   - [x] For cutie
+  - [ ] For cutie-is
+    - [ ] Docs for is
   - [ ] For assert
   - [ ] For fs
   - [ ] For http
