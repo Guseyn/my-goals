@@ -52,12 +52,12 @@
   - [x] For cutie
   - [x] For cutie-is
     - [x] Docs for is
-  - [ ] For assert
+  - [x] For assert
   - [ ] For fs
   - [ ] For http
   - [ ] For rest
   - [ ] For buffer
-  - [ ] For error
+  - [x] For error
   - [ ] For date
   - [ ] For event
   - [ ] For stream
