@@ -60,7 +60,7 @@
   - [x] For error
   - [x] For date
   - [x] For event
-  - [ ] For stream
+  - [x] For stream
   - [ ] For object
   - [ ] For process
   - [ ] For child-process
