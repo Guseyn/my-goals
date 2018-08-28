@@ -64,7 +64,7 @@
   - [ ] For object
   - [ ] For process
   - [ ] For child-process
-  - [ ] For iterator
+  - [x] For iterator
   - [ ] For path
   - [ ] For if-else 
 - [ ] Update npm ref in every doc
