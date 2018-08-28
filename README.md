@@ -58,7 +58,7 @@
   - [ ] For rest
   - [x] For buffer
   - [x] For error
-  - [ ] For date
+  - [x] For date
   - [x] For event
   - [ ] For stream
   - [ ] For object
