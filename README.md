@@ -53,7 +53,7 @@
   - [x] For cutie-is
     - [x] Docs for is
   - [x] For assert
-  - [ ] For fs
+  - [x] For fs
   - [ ] For http
   - [ ] For rest
   - [x] For buffer
