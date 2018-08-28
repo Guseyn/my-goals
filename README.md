@@ -50,7 +50,7 @@
   4. Then replace them with deps in package.json
 )
   - [x] For cutie
-  - [ ] For cutie-is
+  - [x] For cutie-is
     - [x] Docs for is
   - [ ] For assert
   - [ ] For fs
