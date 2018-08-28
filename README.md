@@ -59,7 +59,7 @@
   - [x] For buffer
   - [x] For error
   - [ ] For date
-  - [ ] For event
+  - [x] For event
   - [ ] For stream
   - [ ] For object
   - [ ] For process
@@ -67,7 +67,6 @@
   - [x] For iterator
   - [ ] For path
   - [ ] For if-else 
-- [ ] Update npm ref in every doc
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
 - [ ] Docs on cutie-cluster
