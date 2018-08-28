@@ -56,7 +56,7 @@
   - [ ] For fs
   - [ ] For http
   - [ ] For rest
-  - [ ] For buffer
+  - [x] For buffer
   - [x] For error
   - [ ] For date
   - [ ] For event
