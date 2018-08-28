@@ -51,7 +51,7 @@
 )
   - [x] For cutie
   - [ ] For cutie-is
-    - [ ] Docs for is
+    - [x] Docs for is
   - [ ] For assert
   - [ ] For fs
   - [ ] For http
