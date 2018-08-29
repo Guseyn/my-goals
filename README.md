@@ -54,8 +54,8 @@
     - [x] Docs for is
   - [x] For assert
   - [x] For fs
-  - [ ] For http
-  - [ ] For rest
+  - [x] For http
+  - [x] For rest
   - [x] For buffer
   - [x] For error
   - [x] For date
