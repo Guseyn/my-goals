@@ -63,7 +63,7 @@
   - [x] For stream
   - [x] For object
   - [ ] For process
-  - [ ] For child-process
+  - [x] For child-process
   - [x] For iterator
   - [ ] For path
   - [ ] For if-else 
