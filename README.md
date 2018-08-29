@@ -65,8 +65,8 @@
   - [x] For process
   - [x] For child-process
   - [x] For iterator
-  - [ ] For path
-  - [ ] For if-else 
+  - [x] For path
+  - [x] For if-else 
 - [ ] Create cutie-cluster
 - [ ] Tests on cutie-cluster
 - [ ] Docs on cutie-cluster
