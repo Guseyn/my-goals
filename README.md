@@ -42,13 +42,7 @@
 - [x] Docs on iterator
 - [x] Docs on path
 - [x] Docs on if-else 
-- [ ] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
-(
-  1. Remove all deps in package.json 
-  2. Create package deps
-  3. Copy paste all needed packages in the deps package
-  4. Then replace them with deps in package.json
-)
+- [x] Make migration of libs from the scope @guseyn/cutie-${lib-name} to the scope @cutie/${lib-name}
   - [x] For cutie
   - [x] For cutie-is
     - [x] Docs for is
