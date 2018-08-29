@@ -62,7 +62,7 @@
   - [x] For event
   - [x] For stream
   - [x] For object
-  - [ ] For process
+  - [x] For process
   - [x] For child-process
   - [x] For iterator
   - [ ] For path
