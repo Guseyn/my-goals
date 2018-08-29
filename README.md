@@ -61,7 +61,7 @@
   - [x] For date
   - [x] For event
   - [x] For stream
-  - [ ] For object
+  - [x] For object
   - [ ] For process
   - [ ] For child-process
   - [x] For iterator
