@@ -61,7 +61,7 @@
   - [x] For iterator
   - [x] For path
   - [x] For if-else 
-- [ ] Create cutie-cluster
+- [x] Create cutie-cluster
 - [ ] Tests on cutie-cluster
 - [ ] Docs on cutie-cluster
 - [ ] Make cutie-mongo
