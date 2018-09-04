@@ -62,7 +62,7 @@
   - [x] For path
   - [x] For if-else 
 - [x] Create cutie-cluster
-- [ ] Tests on cutie-cluster
+- [x] Tests on cutie-cluster
 - [ ] Docs on cutie-cluster
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
