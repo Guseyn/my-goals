@@ -63,7 +63,7 @@
   - [x] For if-else 
 - [x] Create cutie-cluster
 - [x] Tests on cutie-cluster
-- [ ] Docs on cutie-cluster
+- [x] Docs on cutie-cluster
 - [ ] Make cutie-mongo
 - [ ] Tests on cutie-mongo
 - [ ] Docs on cutie-mongo
