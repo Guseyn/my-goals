@@ -64,9 +64,9 @@
 - [x] Create cutie-cluster
 - [x] Tests on cutie-cluster
 - [x] Docs on cutie-cluster
-- [ ] Make cutie-mongo
-- [ ] Tests on cutie-mongo
-- [ ] Docs on cutie-mongo
+- [ ] Make cutie-mongo (10 days)
+- [ ] Tests on cutie-mongo (10 days)
+- [ ] Docs on cutie-mongo (3 days)
 - [ ] Make cutie-mongo-2pc
 - [ ] Tests on cutie-mongo-2pc
 - [ ] Docs on cutie-mongo-2pc
