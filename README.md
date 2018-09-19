@@ -67,9 +67,6 @@
 - [ ] Make cutie-mongo (10 days)
 - [ ] Tests on cutie-mongo (10 days)
 - [ ] Docs on cutie-mongo (3 days)
-- [ ] Make cutie-mongo-2pc
-- [ ] Tests on cutie-mongo-2pc
-- [ ] Docs on cutie-mongo-2pc
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make UI Framework: Page
 - [ ] Test Page
