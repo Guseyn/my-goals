@@ -64,13 +64,18 @@
 - [x] Create cutie-cluster
 - [x] Tests on cutie-cluster
 - [x] Docs on cutie-cluster
-- [ ] Make cutie-mongo (10 days)
-- [ ] Tests on cutie-mongo (10 days)
-- [ ] Docs on cutie-mongo (3 days)
-- [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make UI Framework: Page
+  - [x] static generator
+  - [ ] core
+  - [ ] server
+    - [ ] cutie-https
+  - [ ] cli
 - [ ] Test Page
 - [ ] Write Docs on Page
 - [ ] Rewrite my blog on cuties and Page
+- [ ] Open cutie-libs.org(or smth like this) with docs and examples
+- [ ] Make cutie-mongo (10 days)
+- [ ] Tests on cutie-mongo (10 days)
+- [ ] Docs on cutie-mongo (3 days)
 - [ ] Make up an idea for startup
 - [ ] Create application
