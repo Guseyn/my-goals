@@ -68,7 +68,7 @@
   - [x] static generator
   - [ ] core
   - [ ] server
-    - [ ] cutie-https
+    - [x] cutie-https
   - [ ] cli
 - [ ] Test Page
 - [ ] Write Docs on Page
