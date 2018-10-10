@@ -74,6 +74,7 @@
 - [ ] Write Docs on Page
 - [ ] Make cicd tools
   - [ ] chat bot for github for rejecting bad code
+  - [ ] quality checker (for Node.js)
   - [ ] authomate build on server (via chat bot)
 - [ ] Rewrite my blog on cuties and Page
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
