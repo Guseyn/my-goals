@@ -67,7 +67,7 @@
 - [ ] Make UI Framework: Page
   - [x] static generator
   - [ ] core
-  - [ ] server
+  - [x] server
     - [x] cutie-https
   - [ ] cli
 - [ ] Test Page
