@@ -81,6 +81,8 @@
       - [ ] design checker (async tree pattern)
   - [ ] authomated build on server (via chat bot)
   - [ ] chat that notify you about errors on server
+  - [ ] integration tests
+    - [ ] web integration tests
 - [ ] Rewrite my blog on cuties and Page
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make cutie-mongo (10 days)
