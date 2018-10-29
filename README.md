@@ -83,10 +83,10 @@
   - [ ] chat that notify you about errors on server
   - [ ] integration tests
     - [ ] web integration tests
-- [ ] Rewrite my blog on cuties and Page
-- [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make cutie-mongo (10 days)
 - [ ] Tests on cutie-mongo (10 days)
 - [ ] Docs on cutie-mongo (3 days)
+- [ ] Rewrite my blog on cuties and Page
+- [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make up an idea for startup
 - [ ] Create application
