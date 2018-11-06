@@ -83,9 +83,10 @@
   - [ ] chat that notify you about errors on server
   - [ ] integration tests
     - [ ] web integration tests
-- [ ] Make cutie-mongo (10 days)
-- [ ] Tests on cutie-mongo (10 days)
-- [ ] Docs on cutie-mongo (3 days)
+- [ ] Process all `cuties` and `page-libs` with pipeline
+- [ ] Make cutie-mongo 
+- [ ] Tests on cutie-mongo 
+- [ ] Docs on cutie-mongo 
 - [ ] Rewrite my blog on cuties and Page
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make up an idea for startup
