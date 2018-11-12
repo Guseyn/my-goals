@@ -66,7 +66,8 @@
 - [x] Docs on cutie-cluster
 - [ ] Make UI Framework: Page
   - [x] static generator
-  - [ ] core
+  - [x] core
+  - [ ] craete addons (common use cases for ui js)
   - [x] server
     - [x] cutie-https
   - [ ] cli
