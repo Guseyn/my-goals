@@ -68,9 +68,12 @@
   - [x] static generator
   - [x] core
   - [ ] craete addons (common use cases for ui js)
+    - [x] ajax
+    - [ ] dom
+    - [ ] unit
   - [x] server
     - [x] cutie-https
-  - [ ] cli
+  - [x] cli
 - [ ] Test Page
 - [ ] Write Docs on Page
 - [ ] Make cicd tools
@@ -80,10 +83,9 @@
       - [ ] test coverage
       - [ ] mutation test coverage
       - [ ] design checker (async tree pattern)
+      - [ ] integration tests
   - [ ] authomated build on server (via chat bot)
   - [ ] chat that notify you about errors on server
-  - [ ] integration tests
-    - [ ] web integration tests
 - [ ] Process all `cuties` and `page-libs` with pipeline
 - [ ] Make cutie-mongo 
 - [ ] Tests on cutie-mongo 
