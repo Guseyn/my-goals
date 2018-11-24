@@ -87,6 +87,7 @@
   - [ ] authomated build on server (via chat bot)
   - [ ] chat that notify you about errors on server
 - [ ] Process all `cuties` and `page-libs` with pipeline
+  - [ ] Make all objects immutable (we never change them, we return changed copy of object) 
 - [ ] Make cutie-mongo 
 - [ ] Tests on cutie-mongo 
 - [ ] Docs on cutie-mongo 
