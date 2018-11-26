@@ -70,7 +70,7 @@
   - [ ] craete addons (common use cases for ui js)
     - [x] ajax
     - [ ] dom
-    - [ ] unit
+    - [x] unit
   - [x] server
     - [x] cutie-https
   - [x] cli
@@ -88,10 +88,10 @@
   - [ ] chat that notify you about errors on server
 - [ ] Process all `cuties` and `page-libs` with pipeline
   - [ ] Make all objects immutable (we never change them, we return changed copy of object) 
-- [ ] Make cutie-mongo 
-- [ ] Tests on cutie-mongo 
-- [ ] Docs on cutie-mongo 
 - [ ] Rewrite my blog on cuties and Page
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make up an idea for startup
 - [ ] Create application
+  - [ ] Make cutie-mongo 
+  - [ ] Tests on cutie-mongo 
+  - [ ] Docs on cutie-mongo 
