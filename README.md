@@ -92,6 +92,6 @@
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make up an idea for startup
 - [ ] Create application
-  - [ ] Make cutie-mongo 
-  - [ ] Tests on cutie-mongo 
-  - [ ] Docs on cutie-mongo 
+  - [ ] Make cutie-mongo (maybe)
+  - [ ] Tests on cutie-mongo (maybe)
+  - [ ] Docs on cutie-mongo (maybe)
