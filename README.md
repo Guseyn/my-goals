@@ -89,6 +89,7 @@
 - [ ] Process all `cuties` and `page-libs` with pipeline
   - [ ] Make all objects immutable (we never change them, we return changed copy of object) 
 - [ ] Rewrite my blog on cuties and Page
+  - [ ] cutie-json-db
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
 - [ ] Make up an idea for startup
 - [ ] Create application
