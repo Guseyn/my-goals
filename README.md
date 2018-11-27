@@ -74,6 +74,7 @@
   - [x] server
     - [x] cutie-https
   - [x] cli
+  - [ ] logo, docs, web page
 - [ ] Test Page
 - [ ] Write Docs on Page
 - [ ] Make cicd tools
