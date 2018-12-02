@@ -67,16 +67,16 @@
 - [ ] Make UI Framework: Page
   - [x] static generator
   - [x] core
-  - [ ] craete addons (common use cases for ui js)
+  - [x] craete addons (common use cases for ui js)
     - [x] ajax
-    - [ ] dom
+    - [x] dom
     - [x] unit
   - [x] server
     - [x] cutie-https
   - [x] cli
-  - [ ] logo, docs, web page
-- [ ] Test Page
-- [ ] Write Docs on Page
+  - [ ] logo 
+  - [ ] docs
+  - [ ] tests
 - [ ] Make cicd tools
   - [ ] chat bot for github for rejecting bad code
     - [ ] quality checker (for Node.js)
