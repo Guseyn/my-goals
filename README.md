@@ -75,7 +75,7 @@
     - [x] cutie-https
   - [x] cli
   - [ ] logo 
-  - [ ] docs
+  - [x] docs
   - [ ] tests
 - [ ] Improve Async_Tree_Pattern docs.
 - [ ] Make cicd tools
