@@ -93,7 +93,8 @@
 - [ ] Rewrite my blog on cuties and Page
   - [ ] cutie-json-db
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
-  - [ ] make Async Tree Pattern more popular
+  - [ ] logo for cuties
+- [ ] Make Async Tree Pattern more popular
 - [ ] Make up an idea for startup
 - [ ] Create application
   - [ ] Make cutie-mongo (maybe)
