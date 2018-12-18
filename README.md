@@ -74,9 +74,9 @@
   - [x] server
     - [x] cutie-https
   - [x] cli
-  - [ ] logo 
+  - [x] logo 
   - [x] docs
-  - [ ] tests
+  - [ ] wall in building process
 - [ ] Improve Async_Tree_Pattern docs.
 - [ ] Make cicd tools
   - [ ] chat bot for github for rejecting bad code
