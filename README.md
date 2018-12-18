@@ -80,7 +80,7 @@
 - [ ] Improve Async_Tree_Pattern docs.
 - [ ] Make cicd tools
   - [ ] chat bot for github for rejecting bad code
-    - [ ] quality checker (for Node.js)
+    - [ ] quality checker (for Node.js)  - **wall**
       - [ ] static analysis
       - [ ] test coverage
       - [ ] mutation test coverage
