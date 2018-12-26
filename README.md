@@ -76,7 +76,7 @@
   - [x] cli
   - [x] logo 
   - [x] docs
-  - [ ] wall in building process
+  - [x] wall in building process
 - [ ] Improve Async_Tree_Pattern docs.
 - [ ] Make cicd tools
   - [ ] chat bot for github for rejecting bad code
