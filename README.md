@@ -64,7 +64,7 @@
 - [x] Create cutie-cluster
 - [x] Tests on cutie-cluster
 - [x] Docs on cutie-cluster
-- [ ] Make UI Framework: Page
+- [x] Make Page
   - [x] static generator
   - [x] core
   - [x] craete addons (common use cases for ui js)
