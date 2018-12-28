@@ -80,14 +80,11 @@
 - [ ] Improve Async_Tree_Pattern docs.
 - [ ] Make cicd tools
   - [ ] chat bot for github for rejecting bad code
-    - [ ] quality checker (for Node.js)  - **wall**
-      - [ ] static analysis
-      - [ ] test coverage
-      - [ ] mutation test coverage
-      - [ ] design checker (async tree pattern)
-      - [ ] integration tests
-  - [ ] authomated build on server (via chat bot)
-  - [ ] chat that notify you about errors on server
+    - [x] quality checker (for Node.js)  - **wall**
+      - [x] static analysis
+      - [x] test coverage
+    - [ ] authomated build on server (via chat bot)
+    - [ ] chat that notify you about errors on server
 - [ ] Process all `cuties` and `page-libs` with pipeline
   - [ ] Make all objects immutable (we never change them, we return changed copy of object) 
 - [ ] Rewrite my blog on cuties and Page
