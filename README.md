@@ -78,19 +78,12 @@
   - [x] docs
   - [x] wall in building process
 - [ ] Improve Async_Tree_Pattern docs.
-- [ ] Make cicd tools
-  - [ ] chat bot for github for rejecting bad code
-    - [x] quality checker (for Node.js)  - **wall**
-      - [x] static analysis
-      - [x] test coverage
-    - [ ] authomated build on server (via chat bot)
-    - [ ] chat that notify you about errors on server
-- [ ] Process all `cuties` and `page-libs` with pipeline
-  - [ ] Make all objects immutable (we never change them, we return changed copy of object) 
+- [ ] Process all `cuties` and `page-libs` with pipeline via travis
+  - [ ] Make all objects immutable (if possible and it makes sense: we never change them, we return changed copy of object) 
 - [ ] Rewrite my blog on cuties and Page
   - [ ] cutie-json-db
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
-  - [ ] logo for cuties
+  - [x] logo for cuties
 - [ ] Make Async Tree Pattern more popular
 - [ ] Make up an idea for startup
 - [ ] Create application
