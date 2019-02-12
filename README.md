@@ -78,8 +78,33 @@
   - [x] docs
   - [x] wall in building process
 - [ ] Improve Async_Tree_Pattern docs.
-- [ ] Process all `cuties` and `page-libs` with pipeline via travis
-  - [ ] Make all objects immutable (if possible and it makes sense: we never change them, we return changed copy of object) 
+- [ ] Process all `cuties` and `page-libs` with pipeline via travis (Making all objects immutable (if possible and it makes sense: we never change them, we return changed copy of object))
+  - [x] cutie
+  - [ ] test-executor
+  - [ ] wall
+  - [ ] cutie-is
+  - [ ] cutie-assert
+  - [ ] cutie-error
+  - [ ] cutie-iterator
+  - [ ] cutie-buffer
+  - [ ] cutie-event
+  - [ ] cutie-date
+  - [ ] cutie-stream
+  - [ ] cutie-child-process
+  - [ ] cutie-path
+  - [ ] cutie-process
+  - [ ] cutie-object
+  - [ ] cutie-if-else
+  - [ ] cutie-scripts
+  - [ ] cutie-cluster
+  - [ ] cutie-readline
+  - [ ] cutie-fs
+  - [ ] cutie-json
+  - [ ] cutie-array-iteration
+  - [ ] cutie-http
+  - [ ] cutie-https
+  - [ ] page-cutie
+  - [ ] cutie-rest
 - [ ] Rewrite my blog on cuties and Page
   - [ ] cutie-json-db
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
