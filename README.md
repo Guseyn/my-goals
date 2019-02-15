@@ -80,8 +80,8 @@
 - [ ] Improve Async_Tree_Pattern docs.
 - [ ] Process all `cuties` and `page-libs` with pipeline via travis (Making all objects immutable (if possible and it makes sense: we never change them, we return changed copy of object))
   - [x] cutie
-  - [ ] test-executor
-  - [ ] wall
+  - [x] test-executor
+  - [x] wall
   - [ ] cutie-is
   - [ ] cutie-assert
   - [ ] cutie-error
