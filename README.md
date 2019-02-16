@@ -87,7 +87,7 @@
   - [x] cutie-error
   - [x] cutie-iterator
   - [x] cutie-buffer
-  - [ ] cutie-event
+  - [x] cutie-event
   - [ ] cutie-date
   - [ ] cutie-stream
   - [ ] cutie-child-process
