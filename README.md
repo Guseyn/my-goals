@@ -89,7 +89,7 @@
   - [x] cutie-buffer
   - [x] cutie-event
   - [x] cutie-date
-  - [ ] cutie-stream
+  - [x] cutie-stream
   - [ ] cutie-child-process
   - [ ] cutie-path
   - [ ] cutie-process
