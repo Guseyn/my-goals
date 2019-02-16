@@ -84,7 +84,7 @@
   - [x] wall
   - [x] cutie-is
   - [x] cutie-assert
-  - [ ] cutie-error
+  - [x] cutie-error
   - [ ] cutie-iterator
   - [ ] cutie-buffer
   - [ ] cutie-event
