@@ -86,7 +86,7 @@
   - [x] cutie-assert
   - [x] cutie-error
   - [x] cutie-iterator
-  - [ ] cutie-buffer
+  - [x] cutie-buffer
   - [ ] cutie-event
   - [ ] cutie-date
   - [ ] cutie-stream
