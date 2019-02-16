@@ -83,7 +83,7 @@
   - [x] test-executor
   - [x] wall
   - [x] cutie-is
-  - [ ] cutie-assert
+  - [x] cutie-assert
   - [ ] cutie-error
   - [ ] cutie-iterator
   - [ ] cutie-buffer
