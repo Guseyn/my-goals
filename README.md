@@ -93,7 +93,7 @@
   - [x] cutie-child-process
   - [x] cutie-path
   - [x] cutie-process
-  - [ ] cutie-object
+  - [x] cutie-object
   - [ ] cutie-if-else
   - [ ] cutie-scripts
   - [ ] cutie-cluster
