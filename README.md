@@ -105,6 +105,14 @@
   - [ ] cutie-https
   - [ ] page-cutie
   - [ ] cutie-rest
+  - [ ] page-cutie
+  - [ ] page-cli
+  - [ ] page-md2html
+  - [ ] page-static-generator
+  - [ ] page-unit
+  - [ ] page-ajax
+  - [ ] page-dom
+  - [ ] page
 - [ ] Rewrite my blog on cuties and Page
   - [ ] cutie-json-db
 - [ ] Open cutie-libs.org(or smth like this) with docs and examples
