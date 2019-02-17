@@ -92,7 +92,7 @@
   - [x] cutie-stream
   - [x] cutie-child-process
   - [x] cutie-path
-  - [ ] cutie-process
+  - [x] cutie-process
   - [ ] cutie-object
   - [ ] cutie-if-else
   - [ ] cutie-scripts
