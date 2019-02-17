@@ -90,7 +90,7 @@
   - [x] cutie-event
   - [x] cutie-date
   - [x] cutie-stream
-  - [ ] cutie-child-process
+  - [x] cutie-child-process
   - [ ] cutie-path
   - [ ] cutie-process
   - [ ] cutie-object
