@@ -91,7 +91,7 @@
   - [x] cutie-date
   - [x] cutie-stream
   - [x] cutie-child-process
-  - [ ] cutie-path
+  - [x] cutie-path
   - [ ] cutie-process
   - [ ] cutie-object
   - [ ] cutie-if-else
