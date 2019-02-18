@@ -100,7 +100,7 @@
   - [x] cutie-readline
   - [x] cutie-fs
   - [x] cutie-json
-  - [ ] cutie-array-iteration
+  - [x] cutie-array-iteration
   - [ ] cutie-http
   - [ ] cutie-https
   - [ ] cutie-rest
