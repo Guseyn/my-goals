@@ -103,7 +103,6 @@
   - [ ] cutie-array-iteration
   - [ ] cutie-http
   - [ ] cutie-https
-  - [ ] page-cutie
   - [ ] cutie-rest
   - [ ] page-cutie
   - [ ] page-cli
