@@ -97,7 +97,7 @@
   - [x] cutie-if-else
   - [x] cutie-scripts
   - [x] cutie-cluster
-  - [ ] cutie-readline
+  - [x] cutie-readline
   - [ ] cutie-fs
   - [ ] cutie-json
   - [ ] cutie-array-iteration
