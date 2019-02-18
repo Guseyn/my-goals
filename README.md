@@ -94,7 +94,7 @@
   - [x] cutie-path
   - [x] cutie-process
   - [x] cutie-object
-  - [ ] cutie-if-else
+  - [x] cutie-if-else
   - [ ] cutie-scripts
   - [ ] cutie-cluster
   - [ ] cutie-readline
