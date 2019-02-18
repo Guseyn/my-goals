@@ -98,8 +98,8 @@
   - [x] cutie-scripts
   - [x] cutie-cluster
   - [x] cutie-readline
-  - [ ] cutie-fs
-  - [ ] cutie-json
+  - [x] cutie-fs
+  - [x] cutie-json
   - [ ] cutie-array-iteration
   - [ ] cutie-http
   - [ ] cutie-https
