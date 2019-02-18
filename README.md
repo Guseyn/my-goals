@@ -95,7 +95,7 @@
   - [x] cutie-process
   - [x] cutie-object
   - [x] cutie-if-else
-  - [ ] cutie-scripts
+  - [x] cutie-scripts
   - [ ] cutie-cluster
   - [ ] cutie-readline
   - [ ] cutie-fs
