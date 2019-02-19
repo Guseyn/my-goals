@@ -101,7 +101,7 @@
   - [x] cutie-fs
   - [x] cutie-json
   - [x] cutie-array-iteration
-  - [ ] cutie-http
+  - [x] cutie-http
   - [ ] cutie-https
   - [ ] cutie-rest
   - [ ] page-cutie
