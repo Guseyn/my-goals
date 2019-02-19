@@ -102,7 +102,7 @@
   - [x] cutie-json
   - [x] cutie-array-iteration
   - [x] cutie-http
-  - [ ] cutie-https
+  - [x] cutie-https
   - [ ] cutie-rest
   - [ ] page-cutie
   - [ ] page-cli
