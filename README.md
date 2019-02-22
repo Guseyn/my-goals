@@ -107,7 +107,7 @@
   - [x] page-cutie
   - [x] page-cli
   - [x] page-md2html
-  - [ ] page-static-generator
+  - [x] page-static-generator
   - [ ] page-unit
   - [ ] page-ajax
   - [ ] page-dom
