@@ -105,7 +105,7 @@
   - [x] cutie-https
   - [x] cutie-rest
   - [x] page-cutie
-  - [ ] page-cli
+  - [x] page-cli
   - [ ] page-md2html
   - [ ] page-static-generator
   - [ ] page-unit
