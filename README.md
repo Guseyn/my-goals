@@ -108,7 +108,7 @@
   - [x] page-cli
   - [x] page-md2html
   - [x] page-static-generator
-  - [ ] page-unit
+  - [x] page-unit
   - [ ] page-ajax
   - [ ] page-dom
   - [ ] page
