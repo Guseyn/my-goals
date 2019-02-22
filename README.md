@@ -106,7 +106,7 @@
   - [x] cutie-rest
   - [x] page-cutie
   - [x] page-cli
-  - [ ] page-md2html
+  - [x] page-md2html
   - [ ] page-static-generator
   - [ ] page-unit
   - [ ] page-ajax
