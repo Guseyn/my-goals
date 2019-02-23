@@ -110,7 +110,7 @@
   - [x] page-static-generator
   - [x] page-unit
   - [x] page-ajax
-  - [ ] page-dom
+  - [x] page-dom
   - [ ] page
 - [ ] Rewrite my blog on cuties and Page
   - [ ] cutie-json-db
