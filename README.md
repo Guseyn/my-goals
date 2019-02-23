@@ -109,7 +109,7 @@
   - [x] page-md2html
   - [x] page-static-generator
   - [x] page-unit
-  - [ ] page-ajax
+  - [x] page-ajax
   - [ ] page-dom
   - [ ] page
 - [ ] Rewrite my blog on cuties and Page
