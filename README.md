@@ -111,10 +111,9 @@
   - [x] page-unit
   - [x] page-ajax
   - [x] page-dom
-  - [ ] page
-- [ ] Rewrite my blog on cuties and Page
-  - [ ] cutie-json-db
-- [ ] Open cutie-libs.org(or smth like this) with docs and examples
+  - [x] page
+- [x] Rewrite my blog on cuties and Page
+- [x] Open cutie-libs.org(or smth like this) with docs and examples
   - [x] logo for cuties
 - [ ] Make Async Tree Pattern more popular
 - [ ] Make up an idea for startup
