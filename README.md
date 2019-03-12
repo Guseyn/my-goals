@@ -77,8 +77,8 @@
   - [x] logo 
   - [x] docs
   - [x] wall in building process
-- [ ] Improve Async_Tree_Pattern docs.
-- [ ] Process all `cuties` and `page-libs` with pipeline via travis (Making all objects immutable (if possible and it makes sense: we never change them, we return changed copy of object))
+- [x] Improve Async_Tree_Pattern docs.
+- [x] Process all `cuties` and `page-libs` with pipeline via travis (Making all objects immutable (if possible and it makes sense: we never change them, we return changed copy of object))
   - [x] cutie
   - [x] test-executor
   - [x] wall
