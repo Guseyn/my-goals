@@ -116,8 +116,5 @@
 - [x] Open cutie-libs.org(or smth like this) with docs and examples
   - [x] logo for cuties
 - [ ] Make Async Tree Pattern more popular
-- [ ] Make up an idea for startup
+- [x] Make up an idea for startup
 - [ ] Create application
-  - [ ] Make cutie-mongo (maybe)
-  - [ ] Tests on cutie-mongo (maybe)
-  - [ ] Docs on cutie-mongo (maybe)
