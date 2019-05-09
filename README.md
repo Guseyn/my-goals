@@ -118,3 +118,4 @@
 - [ ] Make Async Tree Pattern more popular
 - [x] Make up an idea for startup
 - [ ] Create application
+- [ ] fix all vulnerabilities of libs
