@@ -2,10 +2,14 @@
 
 App:
 - [ ] Create application
-  - [ ] List of features 
   - [ ] EHTML
-    - [ ] implement basics
+  - [ ] Finish cutie-mongo
+  - [ ] Create cutie Mongo migrations lib
+  - [ ] Dockerize project tool/image
+  - [ ] design app architecture 
+
+
   
-Articles:
-- [ ] Why I Don't Use Promises And Asyc/Await Abstractions
+
+
 
