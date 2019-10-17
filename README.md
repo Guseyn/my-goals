@@ -1,7 +1,7 @@
 # my-goals
 
 App:
-- [ ] Create application
+- [ ] Create application (zero-waste)
   - [ ] EHTML
   - [ ] Finish cutie-mongo
   - [ ] Create cutie Mongo migrations lib
